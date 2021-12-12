@@ -14,7 +14,6 @@ f.e Useful when we need to create a binary search tree for
 ```
 
 ![BST](img/bst.PNG)
-* ```BST for {30, 43, 13, 8, 50, 40, 20, 19, 22}```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

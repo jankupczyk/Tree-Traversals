@@ -15,6 +15,12 @@ f.e Useful when we need to create a binary search tree for
 
 ![BST](img/bst.PNG)
 
+![In-order](img/inorder.PNG)
+
+![Pre-order](img/preorder.PNG)
+
+![Post-order](img/postorder.PNG)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 

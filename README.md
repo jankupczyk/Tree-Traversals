@@ -12,8 +12,8 @@ f.e Useful when we need to create a binary search tree for
 ```bash
 {30, 43, 13, 8, 50, 40, 20, 19, 22}                               
 ```
-
-![BST](img/bst.PNG)
+<p align="center">![BST](img/bst.PNG)
+</p>
 
 ![In-order](img/inorder.PNG)
 

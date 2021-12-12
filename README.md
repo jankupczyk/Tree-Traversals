@@ -6,7 +6,8 @@
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install BST.
    
-Useful when we need to create binary search tree for```bash
+Useful when we need to create a binary search tree for
+```bash
 {30, 43, 13, 8, 50, 40, 20, 19, 22}                               
 ```
 

@@ -39,15 +39,15 @@ def preorder(root):
 
 # Tree traversal ROOT
 # i.e {30, 43, 13, 8, 50, 40, 20, 19, 22}
-x = Node(30) # Provide NODE - ROOT counts as #1
-x = insert(x, 43) #2
-x = insert(x, 13) #3
-x = insert(x, 8)  #4
-x = insert(x, 50) #5
-x = insert(x, 40) #6
-x = insert(x, 20) #7
-x = insert(x, 19) #8
-x = insert(x, 22) #9
+x = Node(5) # Provide NODE - ROOT counts as #1
+x = insert(x, 3) #2
+x = insert(x, 1) #3
+x = insert(x, 4) #4
+x = insert(x, 7) #5
+x = insert(x, 6) #6
+x = insert(x, 9) #7
+# x = insert(x, 19) #8
+# x = insert(x, 22) #9
 #			      #etc...
 
 print('(a) Inorder (Left, Root, Right)')
@@ -58,7 +58,7 @@ print('\n(b) Pre-order (Root, Left, Right)')
 preorder(x)
 
 
-# BOILERPLATE
+# BOILERPLATE 
 if __name__ == "__main__":
 	BSTmain = Node(0)
 	print(f'\nAUTHOR: Jan Kupczyk')
